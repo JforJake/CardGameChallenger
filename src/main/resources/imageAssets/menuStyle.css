@@ -1,0 +1,33 @@
+
+.button{
+    -fx-font: bold 14px "Arial";
+    -fx-alignment: center;
+    -fx-background-color: gray;
+}
+
+.backgroundMenu{
+    -fx-background-image: url('menubackground.png');
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.backgroundSettings{
+    -fx-background-image: url('settingsbackground.png');
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.backgroundCredits{
+    -fx-background-image: url('creditsbackground.png');
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.center{
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    }
